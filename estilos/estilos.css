@@ -1,0 +1,25 @@
+/* tr {
+    display: table-row;
+    vertical-align: inherit;
+    border-color: inherit;
+    
+  } */
+  /* td {
+    display: table-cell;
+    vertical-align:bottom;
+  } */
+
+  body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #fffbfb;
+  }
+
+  #bgates{
+    vertical-align:bottom;
+  }
+  #hate{
+    vertical-align:bottom;
+  }
+  #germani{
+    align-content:justify;
+  }
